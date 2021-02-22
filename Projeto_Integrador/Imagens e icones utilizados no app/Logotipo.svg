@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218.429" height="85" viewBox="0 0 218.429 85">
+  <g id="Logotipo" transform="translate(-70.571 -320)">
+    <g id="Grupo_4" data-name="Grupo 4" transform="translate(-49 -40)">
+      <text id="My_Applications" data-name="My Applications" transform="translate(161 392)" fill="#fff" font-size="34" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Minhas</tspan></text>
+      <text id="My_Applications-2" data-name="My Applications" transform="translate(179 433)" fill="#fff" font-size="47" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tarefas</tspan></text>
+      <path id="ic_format_align_right_24px" d="M3,72.592H72.592V64.859H3ZM26.2,57.127H72.592V49.394H26.2ZM3,41.662H72.592V33.93H3ZM26.2,26.2H72.592V18.465H26.2ZM3,3v7.732H72.592V3Z" transform="translate(122.018 361.451)" fill="#f3f3f3" opacity="0.5"/>
+      <g id="Grupo_3" data-name="Grupo 3" transform="translate(119.571 407.141)">
+        <rect id="Retângulo_3" data-name="Retângulo 3" width="26" height="13" transform="translate(5.429 11.859)" fill="#9969d3"/>
+        <path id="ic_adb_24px" d="M46.15,31.367h0ZM37.685,9.744l6.172-5.951L41.447,1.44l-6.76,6.547a20.848,20.848,0,0,0-9.112-2.126,20.624,20.624,0,0,0-9.082,2.126L9.7,1.44,7.293,3.792l6.172,5.951A19.5,19.5,0,0,0,5,25.7v2.834H46.15V25.7A19.5,19.5,0,0,0,37.685,9.744ZM16.757,22.865A2.836,2.836,0,1,1,19.7,20.031,2.9,2.9,0,0,1,16.757,22.865Zm17.636,0a2.836,2.836,0,1,1,2.939-2.834A2.9,2.9,0,0,1,34.393,22.865Z" transform="translate(-5 -1.44)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
