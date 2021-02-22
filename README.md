@@ -2,18 +2,18 @@
 Repositório das aulas da trilha de Kotlin do Campinas Tech Talents 2021.
 
 ### Semana 1 - Revisão sobre Kotlin
-- Aula 01: Introdução;  
-- Aula 02: Revisão sobre introdução ao Kotlin;  
-- Aula 03: Classes e objetos;  
-- Aula 04: Herança, Enum Classes e Sealed Classes;  
-- Aula 05: Classes Abstratas, Polimorfismo, Sobrecarga de métodos e Interfaces.
+- Aula 00: Introdução;  
+- Aula 01: Revisão sobre introdução ao Kotlin;  
+- Aula 02: Classes e objetos;  
+- Aula 03: Herança, Enum Classes e Sealed Classes;  
+- Aula 04: Classes Abstratas, Polimorfismo, Sobrecarga de métodos e Interfaces.
 
 ### Semana 2 - Conhecendo o Android
-- Aula 06: Finalização do trabalho de Kotlin, introdução ao Android e ao projeto integrador;
-- Aula 07: O que é uma Activity? Do design ao ciclo de vida;
-- Aula 08: Intents e navegação entre Activities;
-- Aula 09: Listas e RecyclerView;
-- Aula 10: Fragments, ViewPager e TabLayout;
+- Aula 05: Finalização do trabalho de Kotlin, introdução ao Android e ao projeto integrador;
+- Aula 06: O que é uma Activity? Do design ao ciclo de vida;
+- Aula 07: Intents e navegação entre Activities;
+- Aula 08: Listas e RecyclerView;
+- Aula 09: Fragments, ViewPager e TabLayout;
 - Aula 10: JSON e consumo de API com Retrofit.
 
 ### Semana 3 - Aprofundando em Android  
@@ -30,4 +30,4 @@ Repositório das aulas da trilha de Kotlin do Campinas Tech Talents 2021.
 - Aula 19: Entendendo fluxo de trabalho de git;
 - Aula 20: O que é experiência de usuário e o por quê saber;
 - Aula 21: Bate-papo sobre DevOps e Segurança da Informação;
-- Aula 21: Apresentação do Projeto Integrador e encerramento.
+- Aula 22: Apresentação do Projeto Integrador e encerramento.
