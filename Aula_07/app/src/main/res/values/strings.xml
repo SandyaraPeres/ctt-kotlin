@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula 06</string>
+    <string name="titulo_app">Cadastro de Usuário</string>
+    <string name="descricao_app">Por favor, insira os dados do usuário</string>
+    <string name="edt_nome">Nome</string>
+    <string name="edt_idade">Idade</string>
+    <string name="btn_cadastrar">Cadastrar usuário</string>
+    <string name="titulo_usuario">Boas vindas!</string>
+    <string name="descricao_usuario">Confira todos os seus dados aqui: </string>
+</resources>
