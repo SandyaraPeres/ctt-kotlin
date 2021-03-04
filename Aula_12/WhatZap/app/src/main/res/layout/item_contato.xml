@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:background="#F5F5F5">
+
+    <ImageView
+            android:id="@+id/imgContato"
+            android:layout_height="56dp"
+            android:layout_width="56dp"
+            android:background="@drawable/img_background"
+            android:layout_marginStart="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+            android:id="@+id/txtContato"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/tituloContato"
+            android:textStyle="bold"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            tools:text="Henrique"
+            app:layout_constraintStart_toEndOf="@+id/imgContato"
+            app:layout_constraintTop_toTopOf="@+id/imgContato"/>
+
+    <TextView
+            android:id="@+id/txtMensagem"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="10sp"
+            tools:text="Pessoal, vou pagar a breja hoje!"
+            app:layout_constraintStart_toStartOf="@+id/txtContato"
+            app:layout_constraintTop_toBottomOf="@+id/txtContato"/>
+
+    <TextView
+            android:id="@+id/txtHorario"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="8sp"
+            android:layout_marginEnd="16dp"
+            tools:text="20:01 PM"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/txtContato"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
