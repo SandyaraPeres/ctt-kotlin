@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuscarCEP</string>
+    <string name="edtHintCEP">Digite seu CEP</string>
+    <string name="btnBuscaDeCEP">Buscar CEP</string>
+</resources>
