@@ -17,17 +17,17 @@ Repositório das aulas da trilha de Kotlin do Campinas Tech Talents 2021.
 - Aula 10: Sábado Hackathon: Desafio Saúde.  
 
 ### Semana 3 - Aprofundando em Android  
-- Aula 11: JSON e consumo de API com Retrofit.
-- Aula 11: Introdução a boas práticas de código;
-- Aula 12: Arquitetura MVVM;
-- Aula 13: Princípios de Clean Architecture;
-- Aula 14: Testes unitários com JUnit;
-- Aula 15: Testes instrumentados com Espresso.
-
+- Aula 11: Metodologia ágil;
+- Aula 11: Fragments;
+- Aula 12: TabLayout e View Pager;
+- Aula 13: JSON e consumo de API com Retrofit;
+- Aula 14: JSON e consumo de API com Retrofit;
+- Aula 15: Sábado Hackathon: Desafio Livre com Integração de API.
+- 
 ### Semana 4 - Além do Android
-- Aula 16: Conhecendo algumas funcionalidades do Firebase.
-- Aula 17: Publicação de um app na Play Store;
-- Aula 18: Introdução a metodologia ágil;
-- Aula 19: Entendendo fluxo de trabalho de git;
-- Aula 20: O que é experiência de usuário e o por quê saber;
+- Aula 16: Introdução a UX/UI.
+- Aula 17: Pirâmides de testes e introdução a testes unitários;
+- Aula 18: Testes instrumentados;
+- Aula 19: Arquitetura MVVM;
+- Aula 20: Dúvidas e aula extra;
 - Aula 21: Apresentação do Projeto Integrador e encerramento.
